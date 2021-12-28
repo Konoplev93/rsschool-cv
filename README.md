@@ -1,2 +1,3 @@
-1 https://github.com/Konoplev93/rsschool-cv.git
+1 https://Konoplev93.github.io/rsschool-cv/cv
+
 
