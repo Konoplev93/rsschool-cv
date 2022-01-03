@@ -158,8 +158,6 @@ height: 50%;
 .footer__logo {
   object-fit: contain;
 }
-
-
 @media screen and (max-width: 768px) {
   .wrapper {
     display: flex;
@@ -176,4 +174,4 @@ height: 50%;
   display: flex;
   flex-direction: column;
 }
-
+}
