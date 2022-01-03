@@ -172,5 +172,8 @@ height: 50%;
   .wrapper__left {
     border: none;
   }
+  .footer__list {
+  display: flex;
+  flex-direction: column;
 }
 
